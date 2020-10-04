@@ -1,6 +1,6 @@
 # Algoritmos engraçados
 
-_Um repositório com um monte de algoritmos engraçados, amigável para iniciantes :sparkles:_
+_Um repositório com um monte de algoritmos engraçados, amigável para iniciantes_
 
 ## Algoritmos são divertidos, certo?
 
