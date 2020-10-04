@@ -15,7 +15,7 @@ It is always fun to check new algorithms or see how the same algorithms can be r
 
 ## Submit a pull request
 
-After adding your funny algorithm share with us making a [pull request](https://github.com/raissonsouto/funnyAlgorithms/blob/master/CONTRIBUTING.md#submitting-a-pull-request) so people can see how amazing is your algorithm
+After adding your funny algorithm share with us making a pull request so people can see how amazing is your algorithm
 
 ## Enjoyed? 
 
