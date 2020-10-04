@@ -2,6 +2,7 @@
 
 _A repository with a bunch of funny algorithms, beginners friendly :sparkles:_
 
+[Click here](https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md) to check the **portuguese version** of this README.
 ## Algorithms are fun, right?
 
 So why not add the funniest algorithms in this repository? We can share with all the world so people can have fun with us! 
