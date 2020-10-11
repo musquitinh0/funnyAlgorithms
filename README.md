@@ -1,6 +1,6 @@
 # Funny Algorithms
 
-_A repository with a bunch of funny algorithms, beginners friendly_
+_A repository with a bunch of funny algorithms, beginners friendly._
 
 [Click here](https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md) to check the **portuguese version** of this readme.
 ## Algorithms are fun, right?
