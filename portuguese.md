@@ -9,7 +9,7 @@ Então, por que não adicionar os algoritmos mais engraçados neste repositório
 Você pode contribuir de duas maneiras:
 
 - Adicione um novo algoritmo dentro de uma pasta, nomeie a pasta com o nome do algoritmo. Exemplo: (Algoritmo: bogoSort.c, pasta: bogoSort)
-
+- Crie testes para os algoritmos.
 - Reescrever um algoritmo existente em outra linguagem de programação
 
 É sempre divertido ver novos algoritmos ou ver como os mesmos algoritmos podem ser reescritos em diferentes linguagens de programação.
