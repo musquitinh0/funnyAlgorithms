@@ -1,15 +1,15 @@
 # Funny Algorithms
 
-_A repository with a bunch of funny algorithms, beginners friendly._
+[<img src="https://img.shields.io/badge/-Português-brightgreen?style=flat-square&logoColor=white&link=https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md" height="22" title="Portuguese" />](https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md)
 
-[Click here](https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md) to check the **portuguese version** of this readme.
-## Algorithms are fun, right?
+_A repository with a bunch of funny algorithms, beginners friendly._
 
 So why not add the funniest algorithms in this repository? We can share with all the world so people can have fun with us! 
 
 You can contribute in two ways:
 
 - Add a new algorithm inside a folder, name the folder with the type of the algorithm. Example: (Algorithm: bogoSort.c, folder: sort).
+- create black-box tests for the algorithms.
 - Rewrite an existing algorithm in another programming language.
 
 It is always fun to check new algorithms or see how the same algorithms can be rewritten in different programming languages.
