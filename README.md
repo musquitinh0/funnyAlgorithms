@@ -1,6 +1,7 @@
 # Funny Algorithms
 
 [<img src="https://img.shields.io/badge/-Português-brightgreen?style=flat-square&logoColor=white&link=https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md" height="22" title="Portuguese" />](https://github.com/raissonsouto/funnyAlgorithms/blob/main/portuguese.md)
+[<img src="https://img.shields.io/badge/-français-blue?style=flat-square&logoColor=white&link=https://github.com/raissonsouto/funnyAlgorithms/blob/main/french.md" height="22" title="français" />](https://github.com/raissonsouto/funnyAlgorithms/blob/main/french.md)
 
 _A repository with a bunch of funny algorithms, beginners friendly._
 
